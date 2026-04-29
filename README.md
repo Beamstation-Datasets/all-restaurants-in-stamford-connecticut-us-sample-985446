@@ -1,6 +1,6 @@
 # All Restaurants in Stamford, Connecticut, US
 
-> Free BeamStation sample export with 54 rows and masked direct-contact fields.
+> Free BeamStation sample export with 60 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `985446` |
 | Location | Stamford |
 | Category | Restaurants |
-| Full dataset size | 542 records |
-| Free sample size | 54 records (9.96%) |
-| Last export | 2026-04-21T20:27:12.771295+00:00 |
+| Full dataset size | 606 records |
+| Free sample size | 60 records (9.9%) |
+| Last export | 2026-04-28T22:08:24.429235+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-stamford-connecticut-us-sample-985446/releases/download/sample-latest/beamstation_985446_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
