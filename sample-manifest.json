@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d8146c00-25d0-438f-b2d3-bef799e3ce28",
+  "export_job_id": "54b00a5f-7890-4403-aab0-821052d2cfb3",
   "id_short": 985446,
-  "published_at": "2026-04-29T19:20:01Z",
+  "published_at": "2026-05-08T07:11:39Z",
   "repo_name": "all-restaurants-in-stamford-connecticut-us-sample-985446",
   "sample_asset_name": "beamstation_985446_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/985446/beamstation_985446_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "2d2c425478fd15dea4f1faf465d680a4fa440d7046a80e180e0066cc8729c8b2",
-  "sample_size_bytes": 211601,
-  "total_records": 606
+  "sample_records": 67,
+  "sample_sha256": "8787054b0b68f5fedd9c31fbef269ac0af26b684e4d3db5c08fecc5a8ae159c2",
+  "sample_size_bytes": 254091,
+  "total_records": 671
 }
